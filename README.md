@@ -63,6 +63,7 @@ If you have any feedback, please reach out to us at VIKASHCHAND147@GMAIL.com
 ## Authors
 
 - [@vikashchand](https://github.com/vikashchand)
+- [@Tirthankar2001](https://github.com/Tirthankar2001)
 
 
 ## Screenshots
